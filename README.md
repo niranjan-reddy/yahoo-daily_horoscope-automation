@@ -7,7 +7,7 @@ This works well on Windows 10 and Windows 11.
 All you need to do is:
  - Place the code on some Directory on your machine.
  - Open "Windows Scheduler" and create a daily schedule that runs at your preferred time or schedule.
- - Use the daily-horoscope.bat file to run.
+ - Use the "daily-horoscope.bat" file to run.
  - The daily-horoscope.bat frames the system date in YYYYMMDD format and then opens the specified Yahoo URL on your Edge Browser.
  - This is set for Virgo by default. If your sun sign is different then modify the URL accordingly.
  
